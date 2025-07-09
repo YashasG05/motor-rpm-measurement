@@ -1,0 +1,35 @@
+# Arduino-related files to ignore
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.d
+*.o
+*.a
+*.dep
+*.list
+*.sym
+*.srec
+*.lss
+*.mod.c
+*.mk
+*.obj
+
+# Compiled sketch
+*.ino.*
+
+# Precompiled libraries
+*.a
+
+# Object files
+*.o
+
+# Backup files
+*.bak
+*.tmp
+
+# IDE specific
+.vscode/
+.DS_Store
+__pycache__/
