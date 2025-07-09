@@ -34,7 +34,7 @@ The ESP32 counts pulses from both sensors and calculates RPM over time. If no pu
 
 ## 📁 Folder Structure
 
-- [`/code`](./code) → Arduino sketch (`rpm_measurement.ino`)
+- [`/code`](./code) → Arduino sketch (`rpm-measurement-esp32.ino`)
 - [`/Images`](./Images) → KiCad schematic image
 - [`README.md`](./README.md) → This documentation file
 
