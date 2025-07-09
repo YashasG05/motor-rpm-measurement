@@ -3,12 +3,6 @@ This project measures and displays the RPM of a DC motor using an ESP32, an opti
 
 ---
 
-## 📷 Schematic
-
-![Schematic](Images/kicad_schematic.png)
-
----
-
 ## ⚙️ Components Used
 - ESP32 DevKit V1
 - Optical encoder (3806-OPTI-360-AB-OC)
